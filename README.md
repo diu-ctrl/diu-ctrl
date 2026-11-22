@@ -5,5 +5,5 @@
 ## stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,threejs,vite,vitest,nodejs,express,py,java,c,cpp,postgres,mysql,mongodb,supabase,prisma,firebase,figma,ps,pr,ae,ai,blender,unity,unreal,postman,notion,discord,svg,git,github,githubactions,vercel,netlify,cloudflare,docker,linux,ubuntu,bash,powershell,vscode&perline=12&theme=dark" alt="Tech stack" />
+  <img src="https://raw.githubusercontent.com/diu-ctrl/diu-ctrl/main/stack.svg" width="100%" alt="Tech stack" />
 </p>
